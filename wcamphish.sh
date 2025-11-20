@@ -1,6 +1,6 @@
 #!/bin/bash
 # WcamPhish v1.5
-# Powered by Tanmay Tiwari 
+# Powered by Crypticx 
 
 trap 'printf "\n";stop' 2
 
